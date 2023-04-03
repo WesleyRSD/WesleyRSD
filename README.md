@@ -1,7 +1,7 @@
 ### Olá eu sou o Wesley Schultz 👋
 
 
-- 🐱‍🏍 Atualmente trabalho na Empresa Vivo S/A.
+- 🚀 Atualmente trabalho na Empresa Vivo S/A.
 - 👀 Estudando Front-end.
 - 😎 Apaixonado por Back-end.
 
